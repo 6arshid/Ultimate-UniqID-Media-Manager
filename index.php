@@ -3,7 +3,7 @@
 Plugin Name: Ultimate UniqID Media Manager
 Description: Rename ALL media files (images, pdf, mp3, mp4, mov, etc.) to uniqid, store in uniqid folders, migrate old media, fix database URLs and regenerate thumbnails.
 Version: 1.1
-Author: Your Name
+Author: 6arshid
 License: GPL2
 */
 
